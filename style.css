@@ -9,6 +9,14 @@ body {
     font-size: 14px;
 }
 
+.headings {
+    font-size: 24px;
+    font-family: 'Playfair Display', serif;
+    margin-inline-start: 10px;
+    margin-block-start: 20px;
+    margin-block-end: 20px;
+}
+
 footer {
     font-family: "Montserrat", sans-serif;
     font-style: normal;
