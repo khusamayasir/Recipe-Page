@@ -8,3 +8,14 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
 }
+
+footer {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: white;
+}
+
