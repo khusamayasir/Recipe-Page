@@ -19,3 +19,14 @@ footer {
     color: white;
 }
 
+.username-github-link, .devchallengelink {
+    color: white;
+}
+  
+.username-link:hover {
+    color: black;
+}
+
+.devchallenges-link:hover {
+    color: #f7542e;
+}
