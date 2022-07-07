@@ -17,6 +17,14 @@ body {
     margin-block-end: 20px;
 }
 
+.headings-2 {
+    font-size: 18px;
+    font-style: italic;
+    margin-inline-start: 10px;
+    margin-block-start: 20px;
+    margin-block-end: 20px;
+}
+
 footer {
     font-family: "Montserrat", sans-serif;
     font-style: normal;
