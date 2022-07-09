@@ -13,9 +13,14 @@ img {
     max-inline-size: 100%;
     block-size: auto;
 }
- 
+
 ul {
     list-style-image: url(./images/icon.png);
+}
+  
+li {
+    margin-inline-start: 40px;
+    margin-block-end: 10px;
 }
 
 .headings {
