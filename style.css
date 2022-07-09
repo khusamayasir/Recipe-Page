@@ -9,6 +9,11 @@ body {
     font-size: 14px;
 }
 
+img {
+    max-inline-size: 100%;
+    block-size: auto;
+}
+
 .headings {
     font-size: 24px;
     font-family: 'Playfair Display', serif;
