@@ -14,7 +14,9 @@ img {
     block-size: auto;
 }
  
-
+ul {
+    list-style-image: url(./images/icon.png);
+}
 
 .headings {
     font-size: 24px;
