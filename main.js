@@ -23,3 +23,6 @@ cook.classList.add("flex");
 
 let total = document.querySelector(".total-time");
 total.classList.add("flex");
+
+let b = document.getElementsByTagName("b");
+b[0].className = "font";
