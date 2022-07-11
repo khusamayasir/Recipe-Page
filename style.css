@@ -80,6 +80,14 @@ aside {
     margin-block-end: 10px;
 }
 
+.font {
+    font-family: 'Playfair Display', serif;
+}
+
+.flex {
+    display: flex;
+}
+
 footer {
     font-family: "Montserrat", sans-serif;
     font-style: normal;
