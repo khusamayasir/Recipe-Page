@@ -88,6 +88,21 @@ aside {
     display: flex;
 }
 
+.time {
+    display: flex;
+    justify-content: space-between;
+}
+
+.points {
+    display: flex;
+    margin-block-start: 30px;
+    margin-block-end: 30px;
+}
+
+.writing {
+    display: inline-block;
+}
+
 footer {
     font-family: "Montserrat", sans-serif;
     font-style: normal;
