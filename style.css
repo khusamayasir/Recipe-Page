@@ -73,7 +73,12 @@ aside {
     font-family: 'Playfair Display', serif;
     font-size: 24px;
     text-align: center;
-} 
+}
+
+.yield {
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+}
 
 footer {
     font-family: "Montserrat", sans-serif;
