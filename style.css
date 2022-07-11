@@ -23,6 +23,14 @@ li {
     margin-block-end: 10px;
 }
 
+a { 
+    text-decoration: none;
+}
+
+aside {
+    margin-inline-start: 10px;
+}
+
 .headings {
     font-size: 24px;
     font-family: 'Playfair Display', serif;
