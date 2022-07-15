@@ -185,22 +185,20 @@ footer {
         inline-size: 528px;
     }
 }
+
+@media (max-width: 1199px) {
   
-  @media (max-width: 1199px) {
-  
-    header b{
-      font-size: 20px;
-      margin-inline-start: 20px;
+    header b {
+        font-size: 20px;
+        margin-inline-start: 20px;
     }
   
-    .bullet{
-      inline-size: 15px;
-      block-size: 15px;
-      border-radius: 5px;
-      padding-block-end: 20px;
-      padding-inline-start: 12px;
-      padding-inline-end: 12px;
+    .bullet {
+        inline-size: 15px;
+        block-size: 15px;
+        border-radius: 5px;
+        padding-block-end: 20px;
+        padding-inline-start: 12px;
+        padding-inline-end: 12px;
     }
-  
-  
-  }
+}
