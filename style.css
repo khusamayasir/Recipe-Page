@@ -125,3 +125,83 @@ footer {
     color: #f7542e;
 }
 
+@media (min-width: 1200px) {
+
+    header b{
+      font-size: 48px;
+    }
+  
+    main{
+      position: relative;
+      inline-size: 969px;
+      margin-inline-start: 20%;
+    }
+  
+    aside{
+      position: absolute;
+      right: 20px;
+      inline-size: 216px;
+      block-size: 367px;
+      border-radius: 10px;
+      box-shadow: 0px 0px 20px 0px #0000001A;
+    }
+  
+    .bullet{
+      inline-size: 36px;
+      block-size: 36px;
+      border-radius: 6px;
+    }
+  
+    .yield{
+      margin-inline-start: 50px;
+      padding-block-start: 57px;
+    }
+  
+    .prep-time{
+      margin-block-start: 35px;
+      margin-inline-start: 50px;
+      margin-block-end: 35px;
+    }
+  
+    .cook-time{
+      margin-inline-start: 50px;
+      margin-block-end: 35px;
+    }
+  
+    .total-time{
+      margin-inline-start: 50px;
+      margin-block-end: 35px;
+    }
+  
+    .time{
+      flex-direction: column;
+    }
+  
+    .info{
+      inline-size: 590px;
+    }
+  
+    .writing{
+      inline-size: 528px;
+    }
+  
+  }
+  
+  @media (max-width: 1199px) {
+  
+    header b{
+      font-size: 20px;
+      margin-inline-start: 20px;
+    }
+  
+    .bullet{
+      inline-size: 15px;
+      block-size: 15px;
+      border-radius: 5px;
+      padding-block-end: 20px;
+      padding-inline-start: 12px;
+      padding-inline-end: 12px;
+    }
+  
+  
+  }
