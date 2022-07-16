@@ -89,6 +89,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Preview](https://devio-recipe-page.netlify.app/)
+- GitHub [Github](https://github.com/khusamayasir)
+- Twitter [Twitter](https://twitter.com/khusamayasir)
