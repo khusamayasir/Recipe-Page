@@ -154,23 +154,23 @@ footer {
     
     .yield {
         margin-inline-start: 50px;
-        padding-block-start: 57px;
+        padding-block-start: 27px;
     }
     
     .prep-time {
-        margin-block-start: 35px;
+        margin-block-start: 5px;
         margin-inline-start: 50px;
-        margin-block-end: 35px;
+        margin-block-end: 15px;
     }
     
     .cook-time {
         margin-inline-start: 50px;
-        margin-block-end: 35px;
+        margin-block-end: 15px;
     }
     
     .total-time {
         margin-inline-start: 50px;
-        margin-block-end: 35px;
+        margin-block-end: 15px;
     }
     
     .time {
