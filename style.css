@@ -110,18 +110,14 @@ footer {
     font-size: 14px;
     line-height: 17px;
     text-align: center;
-    color: white;
-}
-
-.username-github-link, .devchallengelink {
-    color: white;
-}
-  
-.username-link:hover {
     color: black;
 }
 
-.devchallenges-link:hover {
+.username-github-link, .devchallengelink {
+    color: black;
+}
+  
+.username-link:hover, .devchallenges-link:hover {
     color: #f7542e;
 }
 
@@ -131,7 +127,7 @@ footer {
         font-size: 48px;
     }
     
-    .main-page {
+    main {
         position: relative;
         inline-size: 969px;
         margin-inline-start: 20%;
